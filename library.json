@@ -1,0 +1,20 @@
+{
+  "name": "better_wait",
+  "version": "1.0.0",
+  "description": "Lightweight non-blocking millis() timer and interval wrapper for Arduino and ESP32.",
+  "keywords": ["timer", "millis", "non-blocking", "wait", "interval", "arduino", "esp32"],
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/Cyberbee-pro/better-wait"
+  },
+  "authors": [
+    {
+      "name": "Shibraj Das",
+      "url": "https://github.com/Cyberbee-pro",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"]
+}

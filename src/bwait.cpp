@@ -1,6 +1,6 @@
 
 #include <Arduino.h>
-#include <bwait.h>
+#include "bwait.h"
 
 
     b_wait::b_wait(int wait_time){
