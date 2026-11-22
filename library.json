@@ -5,7 +5,7 @@
   "keywords": ["timer", "millis", "non-blocking", "wait", "interval", "arduino", "esp32"],
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/Cyberbee-pro/better-wait"
+    "url": "https://github.com/Cyberbee-pro/better-wait"
   },
   "authors": [
     {
